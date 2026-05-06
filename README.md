@@ -1,2 +1,31 @@
-# 5ad98bc0-podcast-production-and-episode
-An n8n workflow for podcast creators and production studios automating the episode release pipeline. Monitors a Dropbox or Google Drive folder for new audio files, triggers transcription via Whisper API, generates show notes and chapter markers using the transcript, creates social media snippets for Twitter, LinkedIn, and Instagram, schedules RSS f
+# Podcast Production and Episode Release Automation Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B68wP12De2M2hifQ8cZa2T)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B68wP12De2M2hifQ8cZa2T)
+- [Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/lrzkvn)
+- [Buy on Whop](https://whop.com/podcast-production-and-episode-release-automation-workflow)
+
